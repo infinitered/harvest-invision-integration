@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Invisionapp Harvest Integration
+// @name         Harvest Invisionapp Integration
 // @namespace    https://infinite.red/
 // @version      0.1
 // @description  Harvest button integration with Invision workflow pages
 // @author       InfiniteRed
-// @source       https://github.com/infinitered/harvest-invision-integration/master/raw/harvest-invisionapp-integration.user.js
+// @source       https://github.com/infinitered/harvest-invision-integration/blob/master/harvest_invisionapp_integration.user.js
 // @include      https://*.invisionapp.com/d/main
 // @require      http://code.jquery.com/jquery-1.12.4.min.js
 // @grant        none
