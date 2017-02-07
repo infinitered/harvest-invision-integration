@@ -6,7 +6,7 @@ It adds the [Harvest Tracker](https://www.getharvest.com/add-time-tracking) to I
 
 ## Requirements
 
-You must have an Enterprise account set up for [Invision](https://www.invisionapp.com) and be logged in. When you navigate to Invision, you should see a URL like this: https://<your enterprise company>.invisionapp.com
+You must have an Enterprise account set up for [Invision](https://www.invisionapp.com).
 
 You must have an account with [Harvest](https://www.getharvest.com/) and be logged in.
 
