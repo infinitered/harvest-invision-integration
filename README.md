@@ -1,4 +1,4 @@
-# Harvest Time Tracking Integration with [Invision](https://www.invisionapp.com)
+# Harvest Time Tracking Integration with Invision Enterprise workflow screens
 
 Install this User Script via TamperMonkey to add Harvest Tracker to Invision Enterprise workflow pages
 
@@ -16,7 +16,7 @@ For FireFix users, install [TamperMonkey for FireFix](https://tampermonkey.net/?
 For Microsoft Edge users, install [TamperMonkey for Microsoft Edge](https://tampermonkey.net/?ext=dhdg&browser=edge)
 For other browser users, select the appropriate tab for [TamperMonkey](https://tampermonkey.net/)
 
+## Installation
 
-
-
-
+After installing TamperMonkey, open [harvest_invisionapp_integration.user.js](https://github.com/infinitered/harvest-invision-integration/blob/master/harvest_invisionapp_integration.user.js) and click the 'Raw' button.
+This will open an install screen for Tampermonkey with an Install button. Click it to install the script.
