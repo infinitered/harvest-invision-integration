@@ -2,9 +2,11 @@
 
 Install this User Script via TamperMonkey to add the [Harvest Tracker Plugin](https://www.getharvest.com/add-time-tracking) to Invision Enterprise workflow pages
 
+![Script in action](_art/script_in_action.gif)
+
 ## Requirements
 
-* You must have an Enterprise account set up for [Invision](https://www.invisionapp.com).
+* You must have an Enterprise account set up for [Invision](https://www.invisionapp.com) and be logged in.
 * You must have an account with [Harvest](https://www.getharvest.com/) and be logged in.
 
 ## Install TamperMonkey
