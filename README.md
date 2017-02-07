@@ -11,7 +11,7 @@ Install this User Script via TamperMonkey to add the [Harvest Tracker Plugin](ht
 
 * For Chrome users, install [TamperMonkey for Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)
 * For Safari users, install [TamperMonkey for Safari](https://tampermonkey.net/?ext=dhdg&browser=safari)
-* For FireFix users, install [TamperMonkey for FireFix](https://tampermonkey.net/?ext=dhdg&browser=firefox)
+* For FireFox users, install [TamperMonkey for FireFox](https://tampermonkey.net/?ext=dhdg&browser=firefox)
 * For Microsoft Edge users, install [TamperMonkey for Microsoft Edge](https://tampermonkey.net/?ext=dhdg&browser=edge)
 * For other browser users, select the appropriate tab for [TamperMonkey](https://tampermonkey.net/)
 
